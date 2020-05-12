@@ -1,5 +1,6 @@
 .vscode/*
-.sounds/Alphabet/*
-.sounds/Other Words/*
-.sounds/Start-Up Tones/*
-.sounds/Words/*
+.Alphabet/*
+.Other Words/*
+.Start-Up Tones/*
+.Words/*
+.speak/*
